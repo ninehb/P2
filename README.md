@@ -1,3 +1,6 @@
+Under Windows OS, 
+  dir *.jpg /b > file.txt
+
 This Repository is a fork of [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) in order to help achieving a binary classifier.    
 The tutorial Readme can be found [here](https://github.com/deboc/py-faster-rcnn/blob/master/help/Readme.md)
 
